@@ -37,4 +37,4 @@ int unboxedInt = boxedInteger.intValue();
 int unboxedInt = boxedInteger;
 ```
 
-* Auto boxing and Auto unboxing can also be done in return statement of method or in parameter of method
+* Auto boxing and Auto unboxing can also be done in `return` statement of method or in `parameter` of method
